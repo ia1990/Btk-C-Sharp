@@ -1,0 +1,11 @@
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\bin\Debug\netcoreapp3.0\Ders2.exe
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\bin\Debug\netcoreapp3.0\Ders2.deps.json
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\bin\Debug\netcoreapp3.0\Ders2.runtimeconfig.json
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\bin\Debug\netcoreapp3.0\Ders2.runtimeconfig.dev.json
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\bin\Debug\netcoreapp3.0\Ders2.dll
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\bin\Debug\netcoreapp3.0\Ders2.pdb
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\obj\Debug\netcoreapp3.0\Ders2.csprojAssemblyReference.cache
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\obj\Debug\netcoreapp3.0\Ders2.AssemblyInfoInputs.cache
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\obj\Debug\netcoreapp3.0\Ders2.AssemblyInfo.cs
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\obj\Debug\netcoreapp3.0\Ders2.dll
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\2. Hafta\Ders2\Ders2\obj\Debug\netcoreapp3.0\Ders2.pdb
