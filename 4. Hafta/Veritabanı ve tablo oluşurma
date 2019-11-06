@@ -1,0 +1,21 @@
+1) SQL Server Object Explorer penceresinde ESchool adında bir databases oluşturuyoruz.
+
+
+2) ESchool databases'ine sağ tıklayıp New Query seçeneğini seçiyoruz ve açılan pencereye 
+aşağıdaki kodları ekledikten sonra Execute butonu veya Ctrl + Shift + E ile çalıştırıyoruz. 
+Bu işlemlerden sonra veritabanı eklenmiş olacak.
+
+CREATE TABLE [dbo].[Student] (
+    [Id]         INT          IDENTITY (1, 1) NOT NULL,
+    [Tc]         VARCHAR (11) NULL,
+    [Name]       VARCHAR (50) NULL,
+    [Surname]    VARCHAR (50) NULL,
+    [Department] VARCHAR (50) NULL,
+    [City]       VARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+SET IDENTITY_INSERT [dbo].[Student] ON
+INSERT INTO [dbo].[Student] ([Id], [Tc], [Name], [Surname], [Department], [City]) VALUES (1, N'123', N'Ismail', N'AYDIN', N'Bilgisayar Müh.', N'ANKARA')
+INSERT INTO [dbo].[Student] ([Id], [Tc], [Name], [Surname], [Department], [City]) VALUES (2, N'246', N'Irem', N'AYDIN', N'Elektronik Müh.', N'KONYA')
+SET IDENTITY_INSERT [dbo].[Student] OFF
