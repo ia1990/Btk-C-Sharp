@@ -1,0 +1,8 @@
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\MukemmelSayi\bin\Debug\MukemmelSayi.exe.config
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\MukemmelSayi\bin\Debug\MukemmelSayi.exe
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\MukemmelSayi\bin\Debug\MukemmelSayi.pdb
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\MukemmelSayi\obj\Debug\MukemmelSayi.Form1.resources
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\MukemmelSayi\obj\Debug\MukemmelSayi.Properties.Resources.resources
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\MukemmelSayi\obj\Debug\MukemmelSayi.csproj.GenerateResource.cache
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\MukemmelSayi\obj\Debug\MukemmelSayi.exe
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\MukemmelSayi\obj\Debug\MukemmelSayi.pdb

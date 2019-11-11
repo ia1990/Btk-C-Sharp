@@ -1,0 +1,8 @@
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\EnBuyukEnKucuk\bin\Debug\EnBuyukEnKucuk.exe.config
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\EnBuyukEnKucuk\bin\Debug\EnBuyukEnKucuk.exe
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\EnBuyukEnKucuk\bin\Debug\EnBuyukEnKucuk.pdb
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\EnBuyukEnKucuk\obj\Debug\EnBuyukEnKucuk.Form1.resources
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\EnBuyukEnKucuk\obj\Debug\EnBuyukEnKucuk.Properties.Resources.resources
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\EnBuyukEnKucuk\obj\Debug\EnBuyukEnKucuk.csproj.GenerateResource.cache
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\EnBuyukEnKucuk\obj\Debug\EnBuyukEnKucuk.exe
+C:\Users\ismail.aydin\Desktop\Btk-C-Sharp\Alıştırmalar\Egzersizler\WindowsFormsApp1\EnBuyukEnKucuk\obj\Debug\EnBuyukEnKucuk.pdb
