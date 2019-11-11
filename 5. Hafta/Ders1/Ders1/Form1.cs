@@ -57,10 +57,10 @@ namespace Ders1
         private List<string> AnyMissingEntries()
         {
             List<string> messages = new List<string>();
-            //if (!TcKimlikKontrol(txtTc.Text))
-            //{
-            //    messages.Add("Hatalı Tc girişi!");
-            //}
+            if (!TcKimlikKontrol(txtTc.Text))
+            {
+                messages.Add("Hatalı Tc girişi!");
+            }
             if (string.IsNullOrEmpty(txtTc.Text))
             {
                 messages.Add("Tc alanı boş bırakılamaz!");
